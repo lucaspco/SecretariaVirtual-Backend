@@ -1,0 +1,54 @@
+# Diretórios de build
+/target/
+/out/
+
+# Arquivos de configuração do IntelliJ IDEA
+/.idea
+*.iml
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e dados temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos do Maven
+.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# Arquivos do Gradle
+.gradle/
+/build/
+!gradle-wrapper.jar
+
+# Configurações locais
+/application.properties
+/application.yml
+.env
+
+# Arquivos de compilação e dependências
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos específicos do SO (exemplo: Windows)
+/*.idea
+*.bat
+*.exe
+*.dll
+
+# Configurações de segurança
+secrets.env
+
+# Arquivos de cache
+/.m2/repository/
