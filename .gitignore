@@ -31,7 +31,7 @@ Thumbs.db
 !gradle-wrapper.jar
 
 # Configurações locais
-/application.properties
+
 /application.yml
 .env
 
